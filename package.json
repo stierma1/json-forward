@@ -1,0 +1,25 @@
+{
+  "name": "json-forward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/json-forward.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/json-forward/issues"
+  },
+  "homepage": "https://github.com/stierma1/json-forward#readme",
+  "devDependencies": {
+    "jison": "^0.4.17"
+  },
+  "dependencies": {
+    "@types/node": "^7.0.5"
+  }
+}
